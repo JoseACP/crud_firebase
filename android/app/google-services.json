@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "605179464744",
+    "project_id": "amlo-4e4e2",
+    "storage_bucket": "amlo-4e4e2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:605179464744:android:ae5dda314170584361f91d",
+        "android_client_info": {
+          "package_name": "com.example.crud_firebase"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAftVAajpAc7GY57OmczYrGfjQuapmQTok"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
